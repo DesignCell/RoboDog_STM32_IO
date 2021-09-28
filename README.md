@@ -1,7 +1,7 @@
 # RoboDog_STM32_IO
 
 
-Extended IO firmware for a self designs quadruped robot, reference links below.
+Extended IO firmware for a self designed quadruped robot, reference links below.
 
 Controller: https://github.com/DesignCell/RoboDog_ESP8266_Controller
 
